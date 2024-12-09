@@ -1,6 +1,2 @@
-# dps-pacman
-Classic pacman in javascript and html5 with canvas
-
-Requires desktop Chrome, Firefox or Edge, and a keyboard.
-
-Graphics by https://github.com/rm-hull/big-bang/tree/master/examples/pacman
+Juego de Pacman con 2 niveles. 
+Para jugar el juego entrar aqui: http://libera.somee.com/pacman-juego/
